@@ -27,7 +27,7 @@ A simple and interactive To-Do List application built using HTML, CSS, and JavaS
 
 ## 📸 Preview
 
-![To-Do List App Screenshot](screenshot.png2)
+![To-Do List App Screenshot](screenshot.png2.png)
 
 ## 💻 How To Run
 
